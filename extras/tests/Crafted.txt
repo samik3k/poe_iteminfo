@@ -1,0 +1,83 @@
+#################### 1
+Rarity: Rare
+Storm Edge
+Ornate Sword
+--------
+Two Handed Sword
+Quality: +20% (augmented)
+Physical Damage: 132-218 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 1.46 (augmented)
+--------
+Requirements:
+Level: 28
+Str: 45
+Dex: 54
+--------
+Sockets: G-R-R-R-R B 
+--------
+Itemlevel: 36
+--------
+18% increased Accuracy Rating
+--------
+143% increased Physical Damage
++50 to Accuracy Rating
+Can have multiple Crafted Mods
+Adds 18-30 Physical Damage
+12% increased Attack Speed
++1 to Weapon range
+#################### 2
+Rarity: Rare
+Tempest Gnarl
+Demon's Horn
+--------
+Wand
+Quality: +14% (augmented)
+Physical Damage: 31-56 (augmented)
+Critical Strike Chance: 8.00%
+Attacks per Second: 1.10
+--------
+Requirements:
+Level: 56
+Int: 179 (unmet)
+--------
+Sockets: B-R-B
+--------
+Itemlevel: 68
+--------
+16% increased Spell Damage
+--------
+10% increased Spell Damage
+14% increased Cast Speed
+78% increased Critical Strike Chance for Spells
+26% increased Global Critical Strike Multiplier
++69 to maximum Mana
+41% increased Spell Damage
+#################### 3
+Rarity: Rare
+Tempest Gnarl
+Demon's Horn
+--------
+Wand
+Quality: +14% (augmented)
+Physical Damage: 31-56 (augmented)
+Critical Strike Chance: 8.00%
+Attacks per Second: 1.10
+--------
+Requirements:
+Level: 65
+Str: 102
+Int: 179
+--------
+Sockets: B-R-B
+--------
+Itemlevel: 68
+--------
+16% increased Spell Damage
+--------
+10% increased Spell Damage
+14% increased Cast Speed
+78% increased Critical Strike Chance for Spells
+26% increased Global Critical Strike Multiplier
++69 to maximum Mana
+41% increased Spell Damage

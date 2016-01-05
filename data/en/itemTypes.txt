@@ -1,0 +1,57 @@
+; Weapons
+One Handed Axe
+Two Handed Axe
+One Handed Mace
+Two Handed Mace
+Sceptre
+Staff
+One Handed Sword
+Two Handed Sword
+Dagger
+Claw
+Bow
+Wand
+; Armours
+Ringmail Gloves
+Ringmail Boots
+Ringmail
+Mantle
+Shell
+; Belts, Amulets, Rings, Quivers, Flasks
+Rustic Sash
+Belt
+Amulet
+Ring
+Quiver
+Flask
+; %A_Space%Map
+Map
+; Dry Peninsula fix
+; Dry%A_Space%Peninsula
+; Shields 
+Shield
+Buckler
+; Gloves
+Bundle
+Gloves
+Mitts
+Gauntlets
+; Helmets
+Helmet
+Helm
+Hat
+Mask
+Hood
+Ursine Pelt
+Lion Pelt
+Circlet
+Sallet
+Burgonet
+Bascinet
+Crown
+Cage
+Tricorne
+; Boots
+Boots
+Greaves
+Slippers
